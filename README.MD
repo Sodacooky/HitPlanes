@@ -12,6 +12,8 @@ gitee仓库删了，寄。
 
 ![](pics/3.png)
 
+[![](pics/2.png)](pics/out_new.mp4 "Video")
+
 ## About External Dynamic Library
 
 This library contains no license and read only, please contact me if you consider it should be removed.
