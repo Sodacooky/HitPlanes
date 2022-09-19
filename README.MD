@@ -11,3 +11,7 @@ gitee仓库删了，寄。
 ![](pics/2.png)
 
 ![](pics/3.png)
+
+## About External Dynamic Library
+
+This library contains no license and read only, please contact me if you consider it should be removed.
