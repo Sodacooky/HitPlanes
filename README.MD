@@ -12,7 +12,7 @@ gitee仓库删了，寄。
 
 ![](pics/3.png)
 
-[![](pics/2.png)](pics/out_new.mp4 "Video")
+[演示视频](pics/out_new.mp4)
 
 ## About External Dynamic Library
 
